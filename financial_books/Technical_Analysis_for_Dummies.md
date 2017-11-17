@@ -22,5 +22,18 @@ To embrace technical analysis is to embrace a way of thinking that's always sens
 
 
 # The truth about buy-and-hold
+Buy-and-hold is a philosophy that says most equities are best left unattended for long periods of time in your portfolio. 
+
+reason why buy-and-hold:
+
+    They rise more or less in sync with the overall economy, saving you transactions costs and taxes. Besides, the market is efficient, meaning every security price already incorporates all the information available and is priced correctly. There is no point in selling Security X unless you need money for a nonmarket reason.
+
+reason why not:
+
+    “One reason to distrust buy-and-hold is that over really long periods, returns are not very good at al”
+
+Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
+
+Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
 
 Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
