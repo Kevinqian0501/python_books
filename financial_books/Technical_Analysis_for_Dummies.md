@@ -34,4 +34,6 @@ reason why not:
 
 In other words, to buy and hold securities for a long period of time is a well-documented path to accumulating capital, but only if you got in at the best time . Otherwise, buy-and-hold is a path to the poorhouse
 
+Also, insider trading would not be so profitable (and periodically scandalous) if all information were available immediately. This is why securities analysts follow pharmaceutical and high-tech companies with a microscope — to get the news first. Not everyone can afford to keep up on all the news all the time about their securities.
+
 Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
