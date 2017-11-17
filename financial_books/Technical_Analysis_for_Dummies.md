@@ -32,8 +32,6 @@ reason why not:
 
     “One reason to distrust buy-and-hold is that over really long periods, returns are not very good at al”
 
-Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
-
-Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
+In other words, to buy and hold securities for a long period of time is a well-documented path to accumulating capital, but only if you got in at the best time . Otherwise, buy-and-hold is a path to the poorhouse
 
 Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
