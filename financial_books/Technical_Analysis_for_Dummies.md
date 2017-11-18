@@ -34,6 +34,25 @@ reason why not:
 
 In other words, to buy and hold securities for a long period of time is a well-documented path to accumulating capital, but only if you got in at the best time . Otherwise, buy-and-hold is a path to the poorhouse
 
-Also, insider trading would not be so profitable (and periodically scandalous) if all information were available immediately. This is why securities analysts follow pharmaceutical and high-tech companies with a microscope — to get the news first. Not everyone can afford to keep up on all the news all the time about their securities.
+Also, insider trading would not be so profitable (and periodically scandalous) if all information were available immediately. This is why **securities analysts follow pharmaceutical and high-tech companies with a microscope — to get the news first. Not everyone can afford to keep up on all the news all the time about their securities**.
+
+# The Trend Is Your Friend
+
+“A trend is a discernible directional bias in the price — upwards, downwards, or sideways.”
+
+# De-cluttering your mind
+
+All known information consists of hundreds of factors ranging from accurate facts to opinions, guesses, and emotions — and previous prices. They all go into the supply and demand for a security and result in its price.
+
+however, that prices on a chart don't tell you anything about the underlying value of the security. Where the price “should” be is a totally different subject, named fundamental analysis. Most technical traders use both forms of analysis, because technical analysis isn't antithetical to fundamental analysis, as some critics think. The two are compatible and can be used together. Many analysts choose to trade only the highest-quality securities on a fundamental basis, but time purchases and sales according to technical criteria.
+
+* Securities prices move in trends much of the time.
+* Trends can be identified with patterns that you see repeatedly and with support and resistance trendlines
+*  Primary trends (lasting months or years) are punctuated by secondary movements (lasting weeks or months) in the opposite direction of the primary trend. Secondary trends, today called retracements, are the very devil to deal with as a trader.
+*  Trends remain in place until some major event comes along to stop them.
+
+At the most basic level, your goal as a technical trader is to **sit on your hands while the security is falling and wait to identify the reversal point** — the best place to buy (shown in the circle) — as early as possible
+
+# Viewing the Scope of Technical Analysis
 
 Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
