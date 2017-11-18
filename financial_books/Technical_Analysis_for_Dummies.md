@@ -53,6 +53,7 @@ however, that prices on a chart don't tell you anything about the underlying val
 
 At the most basic level, your goal as a technical trader is to **sit on your hands while the security is falling and wait to identify the reversal point** — the best place to buy (shown in the circle) — as early as possible
 
-# Viewing the Scope of Technical Analysis
+In your quest to define trendedness and formulate trading rules to maximize profits and reduce risk, don't run the risk of turning into an obsessed, nerdy number cruncher. Don't forget that behind the numbers are other human beings who often behave in irrational ways. Technical analysis (so far) remains an art, not a science, even when it uses scientific methods.
 
-Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
+The biggest mistake that beginning technical traders make is attributing too much reliability and accuracy to technical methods. Experienced technical traders know that no technique works all the time. In fact, many techniques work only when the majority of market participants believe that they will work, forming a self-fulfilling prophecy. You needn't care whether the theory is valid. Your goal is to make money, not to be scientifically pure.
+
