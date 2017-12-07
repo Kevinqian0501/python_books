@@ -60,5 +60,8 @@ The biggest mistake that beginning technical traders make is attributing too muc
 ## identifying crowd behavior
 Technical analysis is the art of identifying crowd behavior in order to **join the crowd and take advantage of its momentum**. This phenomenon is called the bandwagon effect”
 
+As a technical trader, you want to **be sensitive to what the crowd is doing without succumbing to the ruling passions of the crowd itself**. Technical traders **work hard at not listening to chatter about securities**, even from experts. You may get information overload — and you may get disinformation (deliberately misleading information). All the information you need to make a trading decision is embedded in the price. The price incorporates the crowd reaction to information, and it's more practical to look at prices than to guess what the crowd might be thinking. When you check the news for the cause of a price action, do it with a healthy dose of skepticism.”
+
+
 
 
