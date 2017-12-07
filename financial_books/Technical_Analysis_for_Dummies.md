@@ -57,3 +57,8 @@ In your quest to define trendedness and formulate trading rules to maximize prof
 
 The biggest mistake that beginning technical traders make is attributing too much reliability and accuracy to technical methods. Experienced technical traders know that no technique works all the time. In fact, many techniques work only when the majority of market participants believe that they will work, forming a self-fulfilling prophecy. You needn't care whether the theory is valid. Your goal is to make money, not to be scientifically pure.
 
+## identifying crowd behavior
+Technical analysis is the art of identifying crowd behavior in order to **join the crowd and take advantage of its momentum**. This phenomenon is called the bandwagon effect”
+
+
+
