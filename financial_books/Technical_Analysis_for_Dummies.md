@@ -1,4 +1,8 @@
+“our goal as a technical trader is to identify what the crowd is doing and take advantage of it”
+
+
 ### Here are a few tidbits that may answer some questions before you jump in
+
 
 * “The point of technical analysis is to help you observe prices in a new way and to make trading decisions based on reasonable expectations about where “the market” is going to take the price.”
 
@@ -61,6 +65,40 @@ The biggest mistake that beginning technical traders make is attributing too muc
 Technical analysis is the art of identifying crowd behavior in order to **join the crowd and take advantage of its momentum**. This phenomenon is called the bandwagon effect”
 
 As a technical trader, you want to **be sensitive to what the crowd is doing without succumbing to the ruling passions of the crowd itself**. Technical traders **work hard at not listening to chatter about securities**, even from experts. You may get information overload — and you may get disinformation (deliberately misleading information). All the information you need to make a trading decision is embedded in the price. The price incorporates the crowd reaction to information, and it's more practical to look at prices than to guess what the crowd might be thinking. When you check the news for the cause of a price action, do it with a healthy dose of skepticism.”
+
+
+## What is normal anyway
+reverting to the mean
+trading mean reversion
+
+## Going with the flow: market sentiment
+
+Looking into market sentiment and make use of it
+Thinking outside the chart
+Use volume as a signal
+
+
+## Conquering fear of noise
+## Find relevant time frames
+## Examing indicators in detail
+
+# 5. Managing the trade
+## creating trading rules: the five-step plan
+Rule 1. Determine the current trend.
+Rule 2. Establish the rules for opening a position.
+Rule 3. Manage the money at risk by scaling up or down.
+Rule 4. Establish the rules for closing a position — set stops and targets.
+Rule 5. Establish a reentry rule after being stopped or after the target is hit.
+
+## Blending trading rules with indicators yields trading style
+Combining indicators with trading rules
+
+## Knowing when to take the money and run
+## Keeping losses under control
+## Finding out how to adjust positions
+
+
+
 
 
 
