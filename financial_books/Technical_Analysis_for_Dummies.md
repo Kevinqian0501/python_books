@@ -1,4 +1,8 @@
+“our goal as a technical trader is to identify what the crowd is doing and take advantage of it”
+
+
 ### Here are a few tidbits that may answer some questions before you jump in
+
 
 * “The point of technical analysis is to help you observe prices in a new way and to make trading decisions based on reasonable expectations about where “the market” is going to take the price.”
 
@@ -22,5 +26,80 @@ To embrace technical analysis is to embrace a way of thinking that's always sens
 
 
 # The truth about buy-and-hold
+Buy-and-hold is a philosophy that says most equities are best left unattended for long periods of time in your portfolio. 
 
-Excerpt From: Rockefeller, Barbara. “Technical Analysis For Dummies.” iBooks. 
+reason why buy-and-hold:
+
+    They rise more or less in sync with the overall economy, saving you transactions costs and taxes. Besides, the market is efficient, meaning every security price already incorporates all the information available and is priced correctly. There is no point in selling Security X unless you need money for a nonmarket reason.
+
+reason why not:
+
+    “One reason to distrust buy-and-hold is that over really long periods, returns are not very good at al”
+
+In other words, to buy and hold securities for a long period of time is a well-documented path to accumulating capital, but only if you got in at the best time . Otherwise, buy-and-hold is a path to the poorhouse
+
+Also, insider trading would not be so profitable (and periodically scandalous) if all information were available immediately. This is why **securities analysts follow pharmaceutical and high-tech companies with a microscope — to get the news first. Not everyone can afford to keep up on all the news all the time about their securities**.
+
+# The Trend Is Your Friend
+
+“A trend is a discernible directional bias in the price — upwards, downwards, or sideways.”
+
+# De-cluttering your mind
+
+All known information consists of hundreds of factors ranging from accurate facts to opinions, guesses, and emotions — and previous prices. They all go into the supply and demand for a security and result in its price.
+
+however, that prices on a chart don't tell you anything about the underlying value of the security. Where the price “should” be is a totally different subject, named fundamental analysis. Most technical traders use both forms of analysis, because technical analysis isn't antithetical to fundamental analysis, as some critics think. The two are compatible and can be used together. Many analysts choose to trade only the highest-quality securities on a fundamental basis, but time purchases and sales according to technical criteria.
+
+* Securities prices move in trends much of the time.
+* Trends can be identified with patterns that you see repeatedly and with support and resistance trendlines
+*  Primary trends (lasting months or years) are punctuated by secondary movements (lasting weeks or months) in the opposite direction of the primary trend. Secondary trends, today called retracements, are the very devil to deal with as a trader.
+*  Trends remain in place until some major event comes along to stop them.
+
+At the most basic level, your goal as a technical trader is to **sit on your hands while the security is falling and wait to identify the reversal point** — the best place to buy (shown in the circle) — as early as possible
+
+In your quest to define trendedness and formulate trading rules to maximize profits and reduce risk, don't run the risk of turning into an obsessed, nerdy number cruncher. Don't forget that behind the numbers are other human beings who often behave in irrational ways. Technical analysis (so far) remains an art, not a science, even when it uses scientific methods.
+
+The biggest mistake that beginning technical traders make is attributing too much reliability and accuracy to technical methods. Experienced technical traders know that no technique works all the time. In fact, many techniques work only when the majority of market participants believe that they will work, forming a self-fulfilling prophecy. You needn't care whether the theory is valid. Your goal is to make money, not to be scientifically pure.
+
+## identifying crowd behavior
+Technical analysis is the art of identifying crowd behavior in order to **join the crowd and take advantage of its momentum**. This phenomenon is called the bandwagon effect”
+
+As a technical trader, you want to **be sensitive to what the crowd is doing without succumbing to the ruling passions of the crowd itself**. Technical traders **work hard at not listening to chatter about securities**, even from experts. You may get information overload — and you may get disinformation (deliberately misleading information). All the information you need to make a trading decision is embedded in the price. The price incorporates the crowd reaction to information, and it's more practical to look at prices than to guess what the crowd might be thinking. When you check the news for the cause of a price action, do it with a healthy dose of skepticism.”
+
+
+## What is normal anyway
+reverting to the mean
+trading mean reversion
+
+## Going with the flow: market sentiment
+
+Looking into market sentiment and make use of it
+Thinking outside the chart
+Use volume as a signal
+
+
+## Conquering fear of noise
+## Find relevant time frames
+## Examing indicators in detail
+
+# 5. Managing the trade
+## creating trading rules: the five-step plan
+Rule 1. Determine the current trend.
+Rule 2. Establish the rules for opening a position.
+Rule 3. Manage the money at risk by scaling up or down.
+Rule 4. Establish the rules for closing a position — set stops and targets.
+Rule 5. Establish a reentry rule after being stopped or after the target is hit.
+
+## Blending trading rules with indicators yields trading style
+Combining indicators with trading rules
+
+## Knowing when to take the money and run
+## Keeping losses under control
+## Finding out how to adjust positions
+
+
+
+
+
+
+
