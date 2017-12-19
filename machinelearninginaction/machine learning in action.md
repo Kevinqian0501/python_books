@@ -46,10 +46,21 @@ C4.5 made a number of improvements to ID3. Some of these are:
 - Handling training data with missing attribute values - C4.5 allows attribute values to be marked as ? for missing. Missing attribute values are simply not used in gain and entropy calculations.
 - Handling attributes with differing costs.
 - Pruning trees after creation - C4.5 goes back through the tree once it's been created and attempts to remove branches that do not help by replacing them with leaf nodes.
-- 
+
 
 ### Pruning tree
 - [Decision Tree：CART、剪枝](http://isilic.iteye.com/blog/1846726)
+
+# Chapter4: Naive Bayes
+
+- 优点:在数据较少的情况下仍然有效，可以处理多类别问题。
+- 缺点:对于输入数据的准备方式较为敏感。
+适用数据类型:标称型数据。
+
+对于分类而言，使用概率有时要比使用硬规则更为有效。贝叶斯概率及贝叶斯准则提供了一 种利用已知值来估计未知概率的有效方法。
+可以通过特征之间的条件独立性假设，降低对数据量的需求。独立性假设是指一个词的出现概率并不依赖于文档中的其他词。当然我们也知道这个假设过于简单。这就是之所以称为朴素贝 叶斯的原因。尽管条件独立性假设并不正确，但是朴素贝叶斯仍然是一种有效的分类器。
+
+
 
 
 
